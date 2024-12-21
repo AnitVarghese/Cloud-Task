@@ -8,7 +8,7 @@
 
 5 - PHP page initialised.
 
-6 - Coonection established within the servers.
+6 - Connection established within the servers.
 
 7 - The Client information.
 
